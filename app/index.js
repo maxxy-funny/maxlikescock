@@ -14,7 +14,7 @@ const subURLForGettingBans='no-getout'
 const banPermsRole='God'
 let DontAskWhyThisIsHere = require("yiff") 
 
-
+//s
 // Initializing each API works the same.
 // Some, like Sheri, might require a API Key.
 
